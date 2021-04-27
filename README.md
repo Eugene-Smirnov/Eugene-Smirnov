@@ -1,4 +1,3 @@
-# Eugene Smirnov
 ## Contacts
 - SmirnovEuV@gmail.com  
 - [Telegram | t.me/SmirnovEuV](https://t.me/SmirnovEuV)
