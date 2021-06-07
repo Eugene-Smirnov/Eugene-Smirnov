@@ -14,7 +14,7 @@
   - ExpressJS
   - Photoshop, Lightroom
 ## Projects
-  [🎴 Match-match | Game](https://eugene-smirnov-match-match.netlify.app)
+  [🎴 Match-match | Game](https://eugene-smirnov-match-match.netlify.app)   
   [🎹 Virtual-piano](https://eugene-smirnov.github.io/virtual-piano/)  
   [📷 Photo-filter](https://eugene-smirnov.github.io/photo-filter/)  
   [🦊 Wildlife](https://eugene-smirnov.github.io/wildlife/)  
