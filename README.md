@@ -1,4 +1,4 @@
-# Eugene Smirnov | CV
+# Eugene Smirnov
 
 ## Common info
 
