@@ -41,7 +41,7 @@
 
 ### React:
 
-- [📕 React | English for kids](https://eugene-smirnov-english-for-kids.netlify.app/) | [code](https://github.com/Eugene-Smirnov/RSS-JS-FE-2021q1/tree/english-for-kids-admin)
+- [📕 English for kids](https://eugene-smirnov-english-for-kids.netlify.app/) | [code](https://github.com/Eugene-Smirnov/RSS-JS-FE-2021q1/tree/english-for-kids-admin)
 
 ### JS/HTML/CSS:
 
