@@ -1,10 +1,11 @@
 # Eugene Smirnov
-
 ## Common info
 
 1. Yauheni Smirnou (03.02.1998)
 2. Location - Belarus
-3. Education - Belarusian Medical State University, faculty of general medicine, specialist, ENT doctor (intern).
+3. Education - Belarusian Medical State University, faculty of general medicine, specialist, ENT doctor.
+4. AZDS Frontend developer **since 2021**
+5. AZDS Frontend teamlead **since mid'2024**
 
 ## Courses
 
@@ -13,27 +14,50 @@
 
 ## Contacts
 
-- SmirnovEuV@gmail.com
-- [Telegram | t.me/SmirnovEuV](https://t.me/SmirnovEuV)
+- smirnoveuv@gmail.com
+- [Telegram | t.me/smirnoveuv](https://t.me/SmirnovEuV)
 - [LinkedIn](https://www.linkedin.com/in/eugene-smirnov-35363120b/)
 
 ## Skills
-
+### Core
 ![Javascipt](./icons/js.png)
 ![Typescript](./icons/ts.png)
 ![Angular](./icons/angular.png)
 ![RxJS](./icons/rxjs.png)
 ![NgRX](./icons/ngrx.png)
+![Git](./icons/git.png)
 ![HTML5](./icons/html.png)
 ![CSS3](./icons/css.png)
-![React](./icons/react.png)
 ![SASS](./icons/sass.png)
-![Git](./icons/git.png)
+
+- Javascipt
+- Typescript
+- Angular
+- RxJS
+- NgRX
+- Git
+- HTML5
+- CSS3
+- SASS
+- Github Actions
+- npm
+- Microfrontend (Angular ModuleFederation)
+
+### Expirience with:
+
+![React](./icons/react.png)
 ![NodeJS](./icons/node.png)
 ![expressJS](./icons/express.png)
 
-## Projects
+- React
+- NodeJS
+- expressJS
 
+## Pet Projects
+
+- [🐍 Snake (WIP)](https://github.com/Eugene-Smirnov/snake/tree/dev)
+
+## Course Projects
 ### Angular:
 
 - [🛒 Shop](https://github.com/Eugene-Smirnov/angular-shop/pull/1)
@@ -51,12 +75,12 @@
 
 ## About me
 
-Hardworking, self-organized, responsive, interested **front-end developer**. From scratch to full-fledged projects in 9 months of studying. Open-mind, honest, pet-lover. Interested in psychology and human interaction
+Hardworking, self-organized, responsive, interested **front-end developer**. Open-mind, honest, pet-lover. Interested in psychology and human interaction. Ex-doctor (ENT). 
 
 ## English
 
-**B1 Intermediate**
+**B2 Intermediate**
 
 ---
 
-> last update: **_october 2021_**
+> last update: **_march 2025_**
