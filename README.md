@@ -55,7 +55,7 @@
 
 ## Pet Projects
 
-- [🐍 Snake (WIP)](https://github.com/Eugene-Smirnov/snake/tree/dev)
+- [🐍 Snake](https://eugene-smirnov.github.io/snake/) | [code](https://github.com/Eugene-Smirnov/snake/)
 
 ## Course Projects
 ### Angular:
